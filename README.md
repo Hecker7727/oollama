@@ -73,7 +73,7 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a pull request
 Please ensure to update tests as appropriate.
-![Video](https://github.com/Hecker7727/oollama/raw/main/test.mkv)
+![Video](https://raw.githubusercontent.com/Hecker7727/oollama/main/test.mkv)
 
 
 License
